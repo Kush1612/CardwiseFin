@@ -79,3 +79,4 @@ System prompt used:
 3. Estimated reward
 4. Alternative options"
 # Cardwise
+# CardwiseFin
